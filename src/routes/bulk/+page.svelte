@@ -1,0 +1,1 @@
+<!-- For Bulk Templated Messaging, in case of custom message to each number, just have 1 var, and setup that var in the csv/json -->
