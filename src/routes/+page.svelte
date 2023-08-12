@@ -38,7 +38,7 @@
         <textarea
             bind:value={message}
             class="textarea textarea-bordered textarea-primary"
-            placeholder="Bio"
+            placeholder="Message"
         />
     </div>
     <div class="join flex flex-row w-full max-w-lg">
