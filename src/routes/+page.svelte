@@ -34,7 +34,7 @@
         />
     </div>
     <div class="form-control w-full max-w-lg">
-        <label for="message" class="label"><span class="label-text">Phone Number</span></label>
+        <label for="message" class="label"><span class="label-text">Message</span></label>
         <textarea
             bind:value={message}
             class="textarea textarea-bordered textarea-primary"
